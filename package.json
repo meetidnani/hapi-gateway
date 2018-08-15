@@ -1,0 +1,27 @@
+{
+  "name": "hapi-gateway",
+  "version": "0.1.0",
+  "description": "hapi gateway demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meetidnani/hapi-gateway.git"
+  },
+  "keywords": [
+    "Hapi",
+    "Gateway",
+    "demo"
+  ],
+  "author": "Meet Idnani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meetidnani/hapi-gateway/issues"
+  },
+  "homepage": "https://github.com/meetidnani/hapi-gateway#readme",
+  "dependencies": {
+    "hapi": "^17.5.3"
+  }
+}
